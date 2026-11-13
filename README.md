@@ -90,12 +90,8 @@ The decision threshold can be changed in the app to trade off missed churners ag
 ![Correlation heatmap](correlation_heatmap.png)
 *Tenure has the strongest negative correlation with churn (-0.35): longer-tenure customers are less likely to leave, while higher monthly charges (0.19) slightly increase the risk of churn.*
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3fa2fe12-9271-43a7-9cf2-2426f940c272" />
-*The last two columns, Churn_Probability (Yes/No) and Churn_Prediction (Low/High/Medium), display the predicted churn status and corresponding risk level for each sample in the CSV file you upload.*
-
 ![SHAP](images/shap.png)
 *SHAP shows month-to-month contracts, short tenure and fibre-optic internet pushing predictions toward churn, while two-year contracts push toward staying.*
-
 <br><br>
 ## Project structure
 
@@ -126,6 +122,8 @@ Then open http://localhost:8501. Installing TensorFlow can take a few minutes.
 
 In the **Bulk CSV prediction** tab, upload a CSV of customers (same columns as the dataset, for example `sample_bulk.csv`). The app returns each customer's churn probability and risk level, and you can download the results.
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
+<br><br>
 ## Limitations and future work
 
 - The dataset is imbalanced, so accuracy alone is misleading. Recall and ROC-AUC are reported as well.
