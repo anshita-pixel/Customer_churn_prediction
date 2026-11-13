@@ -121,8 +121,8 @@ Then open http://localhost:8501. Installing TensorFlow can take a few minutes.
 ## Bulk prediction
 
 In the **Bulk CSV prediction** tab, upload a CSV of customers (same columns as the dataset, for example `sample_bulk.csv`). The app returns each customer's churn probability and risk level, and you can download the results.
-
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
+<br><br>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b33773dc-3988-4a92-baa6-5aefe2e8e769" />
 <br><br>
 
 ## Limitations and future work
