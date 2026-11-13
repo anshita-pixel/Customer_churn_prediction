@@ -94,15 +94,15 @@ The decision threshold can be changed in the app to trade off missed churners ag
 *SHAP shows month-to-month contracts, short tenure and fibre-optic internet pushing predictions toward churn, while two-year contracts push toward staying.*
 
 ## Web App screenshots
-<img width="2304" height="1440" alt="image" src="https://github.com/user-attachments/assets/0f1fa152-7df3-49cf-8073-caaa7a25d9cc" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0f1fa152-7df3-49cf-8073-caaa7a25d9cc" />
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/d5399b33-442b-4b6f-8ec7-d600757c5827" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d5399b33-442b-4b6f-8ec7-d600757c5827" />
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/f35c248b-e541-457d-ab29-0c97a62266ba" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f35c248b-e541-457d-ab29-0c97a62266ba" />
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/25a35e31-e7ec-4bd4-9dde-c61c15ad4901" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/25a35e31-e7ec-4bd4-9dde-c61c15ad4901" />
 
 ## Project structure
 
