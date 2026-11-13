@@ -94,7 +94,7 @@ The decision threshold can be changed in the app to trade off missed churners ag
 *SHAP shows month-to-month contracts, short tenure and fibre-optic internet pushing predictions toward churn, while two-year contracts push toward staying.*
 
 ## Web App screenshots
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/0f1fa152-7df3-49cf-8073-caaa7a25d9cc" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0f1fa152-7df3-49cf-8073-caaa7a25d9cc" />
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
 
