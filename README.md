@@ -79,6 +79,7 @@ Test set metrics at a 0.5 threshold:
 | 1D CNN | 0.744 | 0.511 | 0.723 | 0.599 | 0.829 | - |
 
 **How to read this:** always predicting "stay" would already give about 73.5% accuracy, so ROC-AUC and recall matter more than accuracy here. The models score similarly on ROC-AUC (about 0.82 to 0.84). 
+
 Logistic Regression catches the most churners (highest recall), while Gradient Boosting has the highest accuracy and precision. The 1D CNN lands in the same range (ROC-AUC 0.829) without beating the simpler models, which is common on a small table of customer data like this one. 
 The decision threshold can be changed in the app to trade off missed churners against false alarms.
 
