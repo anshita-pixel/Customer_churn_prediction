@@ -90,20 +90,13 @@ The decision threshold can be changed in the app to trade off missed churners ag
 ![Correlation heatmap](correlation_heatmap.png)
 *Tenure has the strongest negative correlation with churn (-0.35): longer-tenure customers are less likely to leave, while higher monthly charges (0.19) slightly increase the risk of churn.*
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3fa2fe12-9271-43a7-9cf2-2426f940c272" />
+*The last two columns, Churn_Probability (Yes/No) and Churn_Prediction (Low/High/Medium), display the predicted churn status and corresponding risk level for each sample in the CSV file you upload.*
+
 ![SHAP](images/shap.png)
 *SHAP shows month-to-month contracts, short tenure and fibre-optic internet pushing predictions toward churn, while two-year contracts push toward staying.*
 
-## Web App screenshots
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0f1fa152-7df3-49cf-8073-caaa7a25d9cc" />
 <br><br>
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3fa2fe12-9271-43a7-9cf2-2426f940c272" />
-<br><br>
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d5399b33-442b-4b6f-8ec7-d600757c5827" />
-<br><br>
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f35c248b-e541-457d-ab29-0c97a62266ba" />
-
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/25a35e31-e7ec-4bd4-9dde-c61c15ad4901" />
-
 ## Project structure
 
 ```
