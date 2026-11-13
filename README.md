@@ -124,6 +124,7 @@ In the **Bulk CSV prediction** tab, upload a CSV of customers (same columns as t
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fccc44b1-fccb-4bb2-a780-533613ad7bf0" />
 <br><br>
+
 ## Limitations and future work
 
 - The dataset is imbalanced, so accuracy alone is misleading. Recall and ROC-AUC are reported as well.
